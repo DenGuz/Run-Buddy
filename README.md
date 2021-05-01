@@ -12,3 +12,5 @@ https://denguz.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Dennis Guzman
+
+# Run Buddy Inc.
